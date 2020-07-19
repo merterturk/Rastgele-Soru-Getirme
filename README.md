@@ -1,8 +1,8 @@
 # Rastgele-Soru-Getirme
 ## Projenin Amacı
 Üniversitedeki hocaların online sınav hazırlarken soru havuzundan istenilen derste ve istenilen soru sayıda soru çekmek için tasarlanmıştır.
-Kullanıcı sisteme giriş yaptıktan sonra ders ekleyebilir,ders güncelleyebilir,Soru ekleyebilir,soru güncelleyebilir,soru silebilir,Ders seçimi ve soru sayısı seçildikten sonra 
-kullanıcıya veritabanındaki soru havuzundan rastgele istenilen sayıda ve seçilen derste sorular getirir.
+Kullanıcı sisteme giriş yaptıktan sonra sistemdeki dersleri görebilir,ders ekleyebilir,ders güncelleyebilir,sistemdeki kendi eklediği soruları görebilir,soru ekleyebilir,kendi eklediği soruları güncelleyebilir ve silebilir,kullanıcı ders seçimini yapıp,soru sayısı girdikten sonra 
+ veritabanındaki soru havuzundan rastgele istenilen sayıda ve seçilen derste sorular getirilir.
 ### Kullanıcı Girişi
 ![Login](https://user-images.githubusercontent.com/39930435/87875707-bfbbd400-c9db-11ea-8be6-98e263350018.png)
 ### Anasayfa
