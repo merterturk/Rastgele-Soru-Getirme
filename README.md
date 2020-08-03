@@ -14,14 +14,16 @@ Kullanıcı sisteme giriş yaptıktan sonra sistemdeki dersleri görebilir,ders 
 ### Ders Güncelleme
 ![DersGuncelleme](https://user-images.githubusercontent.com/39930435/87875700-bdf21080-c9db-11ea-8c8f-577f6ff2e0be.png)
 ### Kullanıcı İşlemleri
-![Kullaniciİslemleri](https://user-images.githubusercontent.com/39930435/87875701-be8aa700-c9db-11ea-8d2b-76dc37bb915b.png)
+![Kullaniciİslem](https://user-images.githubusercontent.com/39930435/89203425-356b9680-d5bd-11ea-9025-1ea0f40f021b.png)
 ### Eklediğim Sorular
 ![Sorular](https://user-images.githubusercontent.com/39930435/87875703-be8aa700-c9db-11ea-9d86-45a7507a6e69.png)
 ### Soru Ekle
 ![SoruEkleme](https://user-images.githubusercontent.com/39930435/87875706-bfbbd400-c9db-11ea-9892-da55055493e1.png)
 ### Rastgele Soru Oluştur
-![SoruGetir](https://user-images.githubusercontent.com/39930435/87875704-bf233d80-c9db-11ea-9401-80613bba2590.png)
+![Rastgele1](https://user-images.githubusercontent.com/39930435/89203421-343a6980-d5bd-11ea-9541-d86530bb474b.png)
 ### Rastgele Soru Oluştur-2
-![SoruGetir2](https://user-images.githubusercontent.com/39930435/87875705-bf233d80-c9db-11ea-805c-3b79a6e0e6ff.png)
+![Rastgele2](https://user-images.githubusercontent.com/39930435/89203424-34d30000-d5bd-11ea-93a0-d153fa3f6a1f.png)
+
+
 
 
