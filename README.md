@@ -1,4 +1,6 @@
 # Rastgele-Soru-Getirme
+## Projede Kullanılanlar
+C#-Asp.Net Web Forms,Bootstrap,ADO.NET
 ## Proje hakkında bilgi
 Oluşturulan soru havuzundan istenilen derste ve istenilen soru sayısında birbirinden farklı soru çekmek için tasarlanmıştır.
 Kullanıcı sisteme giriş yaptıktan sonra sistemdeki dersleri görebilir,ders ekleyebilir,ders güncelleyebilir,sistemdeki kendi eklediği soruları görebilir,soru ekleyebilir,kendi eklediği soruları güncelleyebilir ve silebilir,kullanıcı ders seçimini yapıp,soru sayısı girdikten sonra 
